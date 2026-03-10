@@ -1,3 +1,4 @@
+# LaTeX compile artifacts
 *.aux
 *.fdb_latexmk
 *.fls
